@@ -66,12 +66,12 @@ Below is a list of topics covered in this course:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/data-science-engineering.git
+   git clone https://github.com/hrishiNEU/data-science.git
    ```
 2. Navigate into the folder:
 
    ```bash
-   cd data-science-engineering
+   cd data-science
    ```
 3. Open the notebooks or scripts to start exploring the material.
 
@@ -79,7 +79,7 @@ Below is a list of topics covered in this course:
 
 ## 📬 Contact
 
-For questions or collaboration, feel free to reach out via [GitHub Issues](https://github.com/hrishiNEU/data-science/issues) or connect with me on [LinkedIn](#https://www.linkedin.com/in/hrishikesh-kulkarni-neu/).
+For questions or collaboration, feel free to reach out via [GitHub Issues](https://github.com/hrishiNEU/data-science/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh-kulkarni-neu/).
 
 ---
 
